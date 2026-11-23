@@ -15,6 +15,6 @@
 
 ## 주요 프로젝트
 
-- **[SteamFolder](https://github.com/MinBeom2/SteamFolder)** · Steam 게임 라이브러리 정리와 공유  
-- **[냠냠취미](https://github.com/MinBeom2/NyamNyamHobby)** · 숏폼으로 취미를 추천하는 서비스  
-- **[Ait](https://github.com/MinBeom2/Ait)** · AI 모의 면접과 화상 스터디  
+- **[SteamFolder](https://github.com/MinBeom2/SteamFolder)**  Steam 게임 라이브러리 정리와 공유  
+- **[냠냠취미](https://github.com/MinBeom2/NyamNyamHobby)**   숏폼으로 취미를 추천하는 서비스  
+- **[Ait](https://github.com/MinBeom2/Ait)**   AI 모의 면접과 화상 스터디  
